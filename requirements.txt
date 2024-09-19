@@ -1,0 +1,7 @@
+
+python 3.7+
+Flask
+tensorflow
+Pillow
+numpy
+scipy
